@@ -6,6 +6,6 @@ Initially, gambler has 100 coins.
 
 This Gunache is running in testnet. So you can just use it in web3 of remix IDE and provide the local Host information. And Provide Gambler Address.
 
-
+Address Used: 0xD8af8048A286b0D1E61687967E877026878ACc82
 
 https://user-images.githubusercontent.com/56394186/165998023-205906de-b751-47d1-85bb-9f65fc2875a0.mp4
